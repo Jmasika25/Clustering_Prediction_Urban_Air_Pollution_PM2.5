@@ -15,4 +15,4 @@ Under Supervised learning, the main objective was to predict the mean concentrat
 
 Models such as Linear regression, Random Forest Regressor, XGBoost, LightGBM, Decision trees and Support Vector Regressor were fitted to the data.
 
-It was determined the of all the models used, XGBoost had the highest accuracy.
+It was determined that of all the models used, XGBoost had the highest accuracy.
